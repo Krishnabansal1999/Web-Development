@@ -1,0 +1,63 @@
+
+
+*{
+    margin: 0%; padding: 0%;box-sizing: border-box;
+}
+
+.main{
+text-align: center;
+padding-top: 8%;
+
+}
+
+.centrelogo{
+   margin-top: 5%;
+   margin-right: 20%;
+   margin-bottom: 5%;
+   margin-left: 20%;
+}
+
+#thelogo{
+    width: 20%;
+    height: 20%;
+}
+
+.shortmessage{
+
+    text-align: center;
+    width: auto;
+    height: auto;
+    font-family: 'Poppins', sans-serif;
+    color: #44b29a;
+}
+
+.contentpara{
+
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 115%;
+}
+
+.hrdeco{
+
+    border-top: dotted;
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-left: 48%;
+    margin-right: 48%;
+   
+}
+
+.lastpage2{
+    text-align: center;
+    width: 100%;
+    height: 50%;
+}
+
+#mq1{
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 180%;
+    color: #44b29a;
+}
