@@ -2,6 +2,7 @@
 
 *{
     margin: 0%; padding: 0%;box-sizing: border-box;
+   
 }
 
 .main{
@@ -106,9 +107,8 @@ margin-left: 450px;
 }
 .contentheadermatter1 p {
     margin-right: 250px;
-
-
 }
+ 
 
     /* CONTENT OF WHAT CAN I DO "Develop what you need.
 
@@ -117,8 +117,7 @@ to run across devices using the latest technologies available."
 starsw here */
 
 .matter2{
-text-align: center;
-width: 100%;
+    text-align: center;
 
 }
 
@@ -129,7 +128,8 @@ width: 100%;
 
 }
 
-.contentheadermatter2 h3{
+.contentheadermatter2  {
+    text-align: center;
     color: #44b29a;
     font-family: 'Poppins', sans-serif; 
     margin-right: 250px;
@@ -150,7 +150,8 @@ float: left;
 
 }
 
-.pic1ofmatter2 img {
+.pic2ofmatter2 img {
+    text-align: center;
     width: 20%;
     height: 20%;
     color: #44b29a;
