@@ -61,3 +61,102 @@ padding-top: 8%;
     font-size: 180%;
     color: #44b29a;
 }
+
+/* CONTENT OF Design what you want.
+
+I like to keep it simple. My goals are to focus on typography,
+content and conveying the message that you want to send.
+STARTS HERE
+ */
+
+
+.matter1{
+text-align: center;
+width: 100%;
+
+}
+
+.pic1ofmatter1{
+    width: 50%;
+float: left;
+
+
+}
+
+.pic1ofmatter1 img {
+    width: 20%;
+    height: 20%;
+    color: #44b29a;
+margin-left: 450px;
+}
+
+.contentheadermatter1{
+    width: 50%;
+    float: left;
+    font-family: 'Poppins', sans-serif; 
+
+}
+
+.contentheadermatter1 h3{
+    color: #44b29a;
+    font-family: 'Poppins', sans-serif; 
+    margin-right: 250px;
+
+
+}
+.contentheadermatter1 p {
+    margin-right: 250px;
+
+
+}
+
+    /* CONTENT OF WHAT CAN I DO "Develop what you need.
+
+I'm a developer, so I know how to create your website
+to run across devices using the latest technologies available."
+starsw here */
+
+.matter2{
+text-align: center;
+width: 100%;
+
+}
+
+.contentheadermatter2{
+    width: 50%;
+    float: left;
+    font-family: 'Poppins', sans-serif; 
+
+}
+
+.contentheadermatter2 h3{
+    color: #44b29a;
+    font-family: 'Poppins', sans-serif; 
+    margin-right: 250px;
+    background-color: aquamarine;
+
+
+}
+.contentheadermatter2 p {
+    margin-right: 250px;
+
+    
+}
+
+.pic1ofmatter2{
+    width: 50%;
+float: left;
+
+
+}
+
+.pic1ofmatter2 img {
+    width: 20%;
+    height: 20%;
+    color: #44b29a;
+margin-left: 450px;
+}
+
+
+
+
