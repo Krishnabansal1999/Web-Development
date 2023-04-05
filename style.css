@@ -1,8 +1,7 @@
 
 
 *{
-    margin: 0%; padding: 0%;box-sizing: border-box;
-   
+    margin: 0%; padding: 0%;box-sizing: border-box;   
 }
 
 .main{
@@ -54,6 +53,7 @@ padding-top: 8%;
     text-align: center;
     width: 100%;
     height: 50%;
+
 }
 
 #mq1{
@@ -118,17 +118,17 @@ starsw here */
 
 .matter2{
     text-align: center;
+    background-color: aqua;
+    margin-top: 4%;
+    width: 100%;
+
 
 }
 
 .contentheadermatter2{
     width: 50%;
-    float: left;
+
     font-family: 'Poppins', sans-serif; 
-
-}
-
-.contentheadermatter2  {
     text-align: center;
     color: #44b29a;
     font-family: 'Poppins', sans-serif; 
@@ -139,23 +139,25 @@ starsw here */
 }
 .contentheadermatter2 p {
     margin-right: 250px;
+    text-align: center;
+}
 
-    
+.contentheadermatter2 h3{
+
+    text-align: center;
 }
 
 .pic1ofmatter2{
     width: 50%;
-float: left;
-
-
+    background-color: blue;
 }
 
 .pic2ofmatter2 img {
     text-align: center;
-    width: 20%;
+    width: 12%;
     height: 20%;
     color: #44b29a;
-margin-left: 450px;
+margin-left: 700px;
 }
 
 
